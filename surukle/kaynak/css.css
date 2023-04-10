@@ -1,0 +1,29 @@
+
+.divAna{
+  background-color: blue;
+	width:100%;
+  height: 96vh;
+}
+
+.divIc{
+  width: 33.2%;
+  height: 100%;
+  float:left;
+  margin-left: 0.1%;
+  background-color: lightgray;
+}
+.divSuruklenebilir {
+  width: 50%;
+  height: 10%;
+  background-color: red;
+  border: 1px solid;
+  margin: 0 auto;
+  margin-bottom: 1%;
+}
+h1{
+  text-align: center;
+  background-color: gray;
+}
+h3{
+  text-align: center;
+}
